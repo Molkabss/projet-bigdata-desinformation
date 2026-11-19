@@ -1,0 +1,14 @@
+{
+  "accuracy": 0.9852281719862833,
+  "f1_score": 0.9852033644205362,
+  "precision": 0.9855703867187968,
+  "recall": 0.9852281719862832,
+  "train_size": 31064,
+  "test_size": 7582,
+  "confusion_matrix": {
+    "fake_predicted_fake": 3286,
+    "fake_predicted_real": 109,
+    "real_predicted_fake": 3,
+    "real_predicted_real": 4184
+  }
+}
